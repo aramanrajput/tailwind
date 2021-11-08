@@ -1,0 +1,22 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "build-css":"tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aramanrajput/tailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aramanrajput/tailwind/issues"
+  },
+  "homepage": "https://github.com/aramanrajput/tailwind#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
